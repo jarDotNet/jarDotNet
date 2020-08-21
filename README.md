@@ -29,4 +29,4 @@
 
 ### 🛠 What I Use
 
-![Visual Studio](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/visualstudio.svg) ![NuGet](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/nuget.svg) ![LinqPad](./Resources/linqpad.svg) ![Docker](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/docker.svg)
+![Visual Studio](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/visualstudio.svg) ![NuGet](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/nuget.svg) ![LinqPad](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/linqpad.svg) ![Docker](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/docker.svg)

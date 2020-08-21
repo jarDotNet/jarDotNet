@@ -17,16 +17,16 @@
 
 ### 📢 Where You Can Find Me
 
-[![Twitter](./Resources/twitter.svg)](https://twitter.com/jarDotNet) [![LinkedIn](./Resources/linkedin.svg)](https://www.linkedin.com/in/joseantonioreyesguerrero/)
+[![Twitter](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/twitter.svg)](https://twitter.com/jarDotNet) [![LinkedIn](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/linkedin.svg)](https://www.linkedin.com/in/joseantonioreyesguerrero/)
 
 ---
 
 ### 🚧 What I Do
 
-![C# and .NET](./Resources/csharp_dotnet.svg) ![HTML](./Resources/html.svg) ![JavaScript](./Resources/js.svg) ![Web Development](./Resources/web.svg)
+![C# and .NET](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/csharp_dotnet.svg) ![HTML](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/html.svg) ![JavaScript](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/js.svg) ![Web Development](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/web.svg)
 
 ---
 
 ### 🛠 What I Use
 
-![Visual Studio](./Resources/visualstudio.svg) ![NuGet](./Resources/nuget.svg) ![LinqPad](./Resources/linqpad.svg) ![Docker](./Resources/docker.svg)
+![Visual Studio](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/visualstudio.svg) ![NuGet](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/nuget.svg) ![LinqPad](./Resources/linqpad.svg) ![Docker](https://raw.githubusercontent.com/JarDotNet/JarDotNet/master/Resources/docker.svg)

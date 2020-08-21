@@ -15,18 +15,18 @@
 
 ---
 
-📢 ### Where You Can Find Me
+### 📢 Where You Can Find Me
 
-[![Twitter](./Resources/twitter.svg)](https://twitter.com/jarDotNet) [![LinkedIn](./Resources/linkedIn.svg)](https://www.linkedin.com/in/joseantonioreyesguerrero/)
+[![Twitter](./Resources/twitter.svg)](https://twitter.com/jarDotNet) [![LinkedIn](./Resources/linkedin.svg)](https://www.linkedin.com/in/joseantonioreyesguerrero/)
 
 ---
 
-🚧 ### What I Do
+### 🚧 What I Do
 
 ![C# and .NET](./Resources/csharp_dotnet.svg) ![HTML](./Resources/html.svg) ![JavaScript](./Resources/js.svg) ![Web Development](./Resources/web.svg)
 
 ---
 
-🛠 ### What I Use
+### 🛠 What I Use
 
 ![Visual Studio](./Resources/visualstudio.svg) ![NuGet](./Resources/nuget.svg) ![LinqPad](./Resources/linqpad.svg) ![Docker](./Resources/docker.svg)
